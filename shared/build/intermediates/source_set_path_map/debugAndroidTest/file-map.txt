@@ -1,0 +1,5 @@
+com.petros.efthymiou.dailypulse.test.shared-androidTest-0 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/generated/res/resValues/androidTest/debug
+com.petros.efthymiou.dailypulse.test.shared-mergeDebugAndroidTestResources-1 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.petros.efthymiou.dailypulse.test.shared-mergeDebugAndroidTestResources-2 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.petros.efthymiou.dailypulse.test.shared-merged_res-3 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/merged_res/debugAndroidTest
+com.petros.efthymiou.dailypulse.test.shared-packaged_res-4 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/packaged_res/debug
