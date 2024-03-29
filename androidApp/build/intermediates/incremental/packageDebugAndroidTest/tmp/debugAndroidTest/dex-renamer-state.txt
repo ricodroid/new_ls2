@@ -1,4 +1,4 @@
-#Fri Mar 29 11:09:14 JST 2024
-base.0=/Users/r_murata/projects/lsmds/DailyPulse/androidApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+#Fri Mar 29 12:34:32 JST 2024
+base.0=/Users/r_murata/projects/lsmds/NewLs2/androidApp/build/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
 path.0=0/classes.dex
 renamed.0=classes.dex

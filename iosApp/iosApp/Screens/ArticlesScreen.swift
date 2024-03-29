@@ -54,6 +54,8 @@ struct ArticlesScreen: View {
                     LazyVStack(spacing: 10) {
                         ForEach(viewModel.articlesState.articles, id: \.self) { article in
                             ArticleItemView(article: article)
+                                .foregroundColor(.black) // 文字色を黒に変更
+                                .frame(maxWidth: .infinity, alignment: .leading) // 幅いっぱいに表示
                         }
                     }
                 }
@@ -62,6 +64,7 @@ struct ArticlesScreen: View {
         }.onAppear{
             self.viewModel.startObserving()
         }
+        .background(Color.white) // 背景色を白に変更
     }
 }
 
@@ -70,6 +73,7 @@ struct AppBar: View {
         Text("Articles")
             .font(.largeTitle)
             .fontWeight(.bold)
+            .foregroundColor(.black)
     }
 }
 
@@ -85,6 +89,7 @@ struct ArticleItemView: View {
                         .aspectRatio(contentMode: .fit)
                 } else if phase.error != nil {
                     Text("Image Load Error")
+                        .foregroundColor(.black)
                 } else {
                     ProgressView()
                 }
@@ -92,16 +97,20 @@ struct ArticleItemView: View {
             Text(article.title)
                 .font(.title)
                 .fontWeight(.bold)
+                .foregroundColor(.black)
             Text(article.desc)
-            Text(article.date).frame(maxWidth: .infinity, alignment: .trailing).foregroundStyle(.gray)
+                .foregroundColor(.black)
+            Text(article.date)
+                .frame(maxWidth: .infinity, alignment: .trailing)
+                .foregroundColor(.gray)
         }
-        .padding(16)
     }
 }
 
 struct Loader: View {
     var body: some View {
         ProgressView()
+            .foregroundColor(.black)
     }
 }
 
@@ -111,6 +120,6 @@ struct ErrorMessage: View {
     var body: some View {
         Text(message)
             .font(.title)
+            .foregroundColor(.black)
     }
 }
-

@@ -1,5 +1,9 @@
-com.petros.efthymiou.dailypulse.test.shared-androidTest-0 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/generated/res/resValues/androidTest/debug
-com.petros.efthymiou.dailypulse.test.shared-mergeDebugAndroidTestResources-1 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.petros.efthymiou.dailypulse.test.shared-mergeDebugAndroidTestResources-2 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.petros.efthymiou.dailypulse.test.shared-merged_res-3 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/merged_res/debugAndroidTest
-com.petros.efthymiou.dailypulse.test.shared-packaged_res-4 /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/packaged_res/debug
+com.petros.efthymiou.dailypulse.test.shared-lifecycle-viewmodel-ktx-2.6.2-0 /Users/r_murata/.gradle/caches/transforms-3/689a089da8c534d157413bc2e7309880/transformed/lifecycle-viewmodel-ktx-2.6.2/res
+com.petros.efthymiou.dailypulse.test.shared-sqlite-2.3.1-1 /Users/r_murata/.gradle/caches/transforms-3/a9e80918be06856326b9b4e69ce8046e/transformed/sqlite-2.3.1/res
+com.petros.efthymiou.dailypulse.test.shared-lifecycle-viewmodel-2.6.2-2 /Users/r_murata/.gradle/caches/transforms-3/c812eacebf9b2a27308fd3c8cd8b50a5/transformed/lifecycle-viewmodel-2.6.2/res
+com.petros.efthymiou.dailypulse.test.shared-sqlite-framework-2.3.1-3 /Users/r_murata/.gradle/caches/transforms-3/d2f71ba99ff169dcb9456c2b66d871b7/transformed/sqlite-framework-2.3.1/res
+com.petros.efthymiou.dailypulse.test.shared-androidTest-4 /Users/r_murata/projects/lsmds/NewLs2/shared/build/generated/res/resValues/androidTest/debug
+com.petros.efthymiou.dailypulse.test.shared-mergeDebugAndroidTestResources-5 /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.petros.efthymiou.dailypulse.test.shared-mergeDebugAndroidTestResources-6 /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.petros.efthymiou.dailypulse.test.shared-merged_res-7 /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/merged_res/debugAndroidTest
+com.petros.efthymiou.dailypulse.test.shared-packaged_res-8 /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/packaged_res/debug

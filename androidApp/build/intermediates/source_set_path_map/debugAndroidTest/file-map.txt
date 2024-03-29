@@ -1,4 +1,4 @@
-com.petros.efthymiou.dailypulse.android.test.androidApp-androidTest-0 /Users/r_murata/projects/lsmds/DailyPulse/androidApp/build/generated/res/resValues/androidTest/debug
-com.petros.efthymiou.dailypulse.android.test.androidApp-mergeDebugAndroidTestResources-1 /Users/r_murata/projects/lsmds/DailyPulse/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
-com.petros.efthymiou.dailypulse.android.test.androidApp-mergeDebugAndroidTestResources-2 /Users/r_murata/projects/lsmds/DailyPulse/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
-com.petros.efthymiou.dailypulse.android.test.androidApp-merged_res-3 /Users/r_murata/projects/lsmds/DailyPulse/androidApp/build/intermediates/merged_res/debugAndroidTest
+com.petros.efthymiou.dailypulse.android.test.androidApp-androidTest-0 /Users/r_murata/projects/lsmds/NewLs2/androidApp/build/generated/res/resValues/androidTest/debug
+com.petros.efthymiou.dailypulse.android.test.androidApp-mergeDebugAndroidTestResources-1 /Users/r_murata/projects/lsmds/NewLs2/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.petros.efthymiou.dailypulse.android.test.androidApp-mergeDebugAndroidTestResources-2 /Users/r_murata/projects/lsmds/NewLs2/androidApp/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.petros.efthymiou.dailypulse.android.test.androidApp-merged_res-3 /Users/r_murata/projects/lsmds/NewLs2/androidApp/build/intermediates/merged_res/debugAndroidTest

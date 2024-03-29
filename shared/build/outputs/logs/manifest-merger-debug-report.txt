@@ -1,16 +1,16 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml:2:13-83
-INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml:2:13-83
+ADDED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml:2:13-83
+INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml:2:13-83
 	package
-		INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml
+		INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml
 	xmlns:android
-		ADDED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml:2:23-81
+		ADDED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml:2:23-81
 uses-sdk
-INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml reason: use-sdk injection requested
-INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml
-INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml
+INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml reason: use-sdk injection requested
+INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml
+INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml
 	android:targetSdkVersion
-		INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml
+		INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml
 	android:minSdkVersion
-		INJECTED from /Users/r_murata/projects/lsmds/DailyPulse/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest15376050758478318608.xml
+		INJECTED from /Users/r_murata/projects/lsmds/NewLs2/shared/build/intermediates/tmp/ProcessLibraryManifest/debug/tempAndroidManifest8480239303270455317.xml

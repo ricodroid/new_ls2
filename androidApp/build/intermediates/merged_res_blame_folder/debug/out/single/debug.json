@@ -4,11 +4,7 @@
         "source": "com.petros.efthymiou.dailypulse.android.androidApp-main-62:/layout/item_recycler_list.xml"
     },
     {
-        "merged": "/Users/r_murata/.gradle/daemon/8.2/com.petros.efthymiou.dailypulse.android.androidApp-merged_res-60:/layout_activity_main.xml.flat",
-        "source": "/Users/r_murata/.gradle/daemon/8.2/com.petros.efthymiou.dailypulse.android.androidApp-main-62:/layout/activity_main.xml"
-    },
-    {
-        "merged": "/Users/r_murata/.gradle/daemon/8.2/com.petros.efthymiou.dailypulse.android.androidApp-merged_res-60:/layout_item_recycler_list.xml.flat",
-        "source": "/Users/r_murata/.gradle/daemon/8.2/com.petros.efthymiou.dailypulse.android.androidApp-main-62:/layout/item_recycler_list.xml"
+        "merged": "com.petros.efthymiou.dailypulse.android.androidApp-merged_res-60:/layout_activity_main.xml.flat",
+        "source": "com.petros.efthymiou.dailypulse.android.androidApp-main-62:/layout/activity_main.xml"
     }
 ]
